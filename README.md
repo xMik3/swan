@@ -31,10 +31,10 @@ java -jar ./target/Swan-1.0-SNAPSHOT.jar
 
 #### Content Addition
 
-Before Addition
+##### Before Addition
 ![Content Addition Before](./assets/contentAdditionBefore.jpg)
 
-After Addition
+##### After Addition
 ![Content Addition After](./assets/contentAdditionAfter.jpg)
 
 ### List Functionality
@@ -43,10 +43,10 @@ After Addition
 
 #### List Addition
 
-Before Addition
+##### Before Addition
 ![List Addition Before](./assets/listAdditionBefore.jpg)
 
-After Addition
+##### After Addition
 ![List Addition Before](./assets/listAdditionAfter.jpg)
 
 
